@@ -10,7 +10,7 @@ export const App = () => {
         color: '#010101',
       }}
     >
-      <h1>Hell</h1>
+      <h1>Hello</h1>
     </div>
   );
 };
